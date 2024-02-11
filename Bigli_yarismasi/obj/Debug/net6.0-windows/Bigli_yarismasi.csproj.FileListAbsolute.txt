@@ -1,0 +1,36 @@
+C:\Users\doguk\source\repos\Bigli_yarismasi\Bigli_yarismasi\bin\Debug\net6.0-windows\Bigli_yarismasi.exe
+C:\Users\doguk\source\repos\Bigli_yarismasi\Bigli_yarismasi\bin\Debug\net6.0-windows\Bigli_yarismasi.deps.json
+C:\Users\doguk\source\repos\Bigli_yarismasi\Bigli_yarismasi\bin\Debug\net6.0-windows\Bigli_yarismasi.runtimeconfig.json
+C:\Users\doguk\source\repos\Bigli_yarismasi\Bigli_yarismasi\bin\Debug\net6.0-windows\Bigli_yarismasi.dll
+C:\Users\doguk\source\repos\Bigli_yarismasi\Bigli_yarismasi\bin\Debug\net6.0-windows\Bigli_yarismasi.pdb
+C:\Users\doguk\source\repos\Bigli_yarismasi\Bigli_yarismasi\obj\Debug\net6.0-windows\Bigli_yarismasi.csproj.AssemblyReference.cache
+C:\Users\doguk\source\repos\Bigli_yarismasi\Bigli_yarismasi\obj\Debug\net6.0-windows\Bigli_yarismasi.Form1.resources
+C:\Users\doguk\source\repos\Bigli_yarismasi\Bigli_yarismasi\obj\Debug\net6.0-windows\Bigli_yarismasi.Properties.Resources.resources
+C:\Users\doguk\source\repos\Bigli_yarismasi\Bigli_yarismasi\obj\Debug\net6.0-windows\Bigli_yarismasi.csproj.GenerateResource.cache
+C:\Users\doguk\source\repos\Bigli_yarismasi\Bigli_yarismasi\obj\Debug\net6.0-windows\Bigli_yarismasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doguk\source\repos\Bigli_yarismasi\Bigli_yarismasi\obj\Debug\net6.0-windows\Bigli_yarismasi.AssemblyInfoInputs.cache
+C:\Users\doguk\source\repos\Bigli_yarismasi\Bigli_yarismasi\obj\Debug\net6.0-windows\Bigli_yarismasi.AssemblyInfo.cs
+C:\Users\doguk\source\repos\Bigli_yarismasi\Bigli_yarismasi\obj\Debug\net6.0-windows\Bigli_yarismasi.csproj.CoreCompileInputs.cache
+C:\Users\doguk\source\repos\Bigli_yarismasi\Bigli_yarismasi\obj\Debug\net6.0-windows\Bigli_yarismasi.dll
+C:\Users\doguk\source\repos\Bigli_yarismasi\Bigli_yarismasi\obj\Debug\net6.0-windows\refint\Bigli_yarismasi.dll
+C:\Users\doguk\source\repos\Bigli_yarismasi\Bigli_yarismasi\obj\Debug\net6.0-windows\Bigli_yarismasi.pdb
+C:\Users\doguk\source\repos\Bigli_yarismasi\Bigli_yarismasi\obj\Debug\net6.0-windows\Bigli_yarismasi.genruntimeconfig.cache
+C:\Users\doguk\source\repos\Bigli_yarismasi\Bigli_yarismasi\obj\Debug\net6.0-windows\ref\Bigli_yarismasi.dll
+C:\Users\doguk\Desktop\C# Proje\Bigli_yarismasi\Bigli_yarismasi\bin\Debug\net6.0-windows\Bigli_yarismasi.exe
+C:\Users\doguk\Desktop\C# Proje\Bigli_yarismasi\Bigli_yarismasi\bin\Debug\net6.0-windows\Bigli_yarismasi.deps.json
+C:\Users\doguk\Desktop\C# Proje\Bigli_yarismasi\Bigli_yarismasi\bin\Debug\net6.0-windows\Bigli_yarismasi.runtimeconfig.json
+C:\Users\doguk\Desktop\C# Proje\Bigli_yarismasi\Bigli_yarismasi\bin\Debug\net6.0-windows\Bigli_yarismasi.dll
+C:\Users\doguk\Desktop\C# Proje\Bigli_yarismasi\Bigli_yarismasi\bin\Debug\net6.0-windows\Bigli_yarismasi.pdb
+C:\Users\doguk\Desktop\C# Proje\Bigli_yarismasi\Bigli_yarismasi\obj\Debug\net6.0-windows\Bigli_yarismasi.csproj.AssemblyReference.cache
+C:\Users\doguk\Desktop\C# Proje\Bigli_yarismasi\Bigli_yarismasi\obj\Debug\net6.0-windows\Bigli_yarismasi.Form1.resources
+C:\Users\doguk\Desktop\C# Proje\Bigli_yarismasi\Bigli_yarismasi\obj\Debug\net6.0-windows\Bigli_yarismasi.Properties.Resources.resources
+C:\Users\doguk\Desktop\C# Proje\Bigli_yarismasi\Bigli_yarismasi\obj\Debug\net6.0-windows\Bigli_yarismasi.csproj.GenerateResource.cache
+C:\Users\doguk\Desktop\C# Proje\Bigli_yarismasi\Bigli_yarismasi\obj\Debug\net6.0-windows\Bigli_yarismasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doguk\Desktop\C# Proje\Bigli_yarismasi\Bigli_yarismasi\obj\Debug\net6.0-windows\Bigli_yarismasi.AssemblyInfoInputs.cache
+C:\Users\doguk\Desktop\C# Proje\Bigli_yarismasi\Bigli_yarismasi\obj\Debug\net6.0-windows\Bigli_yarismasi.AssemblyInfo.cs
+C:\Users\doguk\Desktop\C# Proje\Bigli_yarismasi\Bigli_yarismasi\obj\Debug\net6.0-windows\Bigli_yarismasi.csproj.CoreCompileInputs.cache
+C:\Users\doguk\Desktop\C# Proje\Bigli_yarismasi\Bigli_yarismasi\obj\Debug\net6.0-windows\Bigli_yarismasi.dll
+C:\Users\doguk\Desktop\C# Proje\Bigli_yarismasi\Bigli_yarismasi\obj\Debug\net6.0-windows\refint\Bigli_yarismasi.dll
+C:\Users\doguk\Desktop\C# Proje\Bigli_yarismasi\Bigli_yarismasi\obj\Debug\net6.0-windows\Bigli_yarismasi.pdb
+C:\Users\doguk\Desktop\C# Proje\Bigli_yarismasi\Bigli_yarismasi\obj\Debug\net6.0-windows\Bigli_yarismasi.genruntimeconfig.cache
+C:\Users\doguk\Desktop\C# Proje\Bigli_yarismasi\Bigli_yarismasi\obj\Debug\net6.0-windows\ref\Bigli_yarismasi.dll
